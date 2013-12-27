@@ -1,0 +1,32 @@
+#! /bin/bash
+
+# all 247 app servers to which we deploy
+#247_PRODUCTION_IPS=(23.21.21.139 184.72.168.237)
+FIREFLY_PRODUCTION_IPS=(54.211.90.254 54.211.115.220)
+
+case "$1" in
+  247-staging)
+    build
+    rsync -avr ./ firefly@247-staging:/home/firefly/www/ --exclude-from '.rsync-ignore'
+    ssh -t firefly@247-staging supervisorctl restart node
+    ;;  
+  247-production)
+  	build
+  	for ip in "${247_PRODUCTION_IPS[@]}"
+		do
+	 		rsync -avr ./ firefly@"${ip}":/home/firefly/www/ --exclude-from '.rsync-ignore'
+	 		ssh -t firefly@"${ip}" sudo supervisorctl restart node
+		done
+    ;;
+  firefly-production)
+    build
+    for ip in "${FIREFLY_PRODUCTION_IPS[@]}"
+    do
+      rsync -avr ./ firefly@"${ip}":/home/firefly/www/ --exclude-from '.rsync-ignore'
+      ssh -t firefly@"${ip}" sudo supervisorctl restart node
+    done
+    ;;    
+  *)
+    exit
+    ;;
+esac

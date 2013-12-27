@@ -4,10 +4,6 @@
 
 build
 
-if [ "$1" == "production" ]; then
-	node utilities/minify.js $(PWD)/public/scripts/final/fireflyDOMUpdates.js
-fi
-
 git add .
 
 git commit -am "pre-pushed"
