@@ -9,3 +9,194 @@ Express server listening on port 3000
 [90mGET /stylesheets/style.css [36m304 [90m4ms[0m
 [90mGET /helloworld [32m200 [90m29ms - 215b[0m
 [90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+Express server listening on port 3000
+[90mGET / [32m200 [90m467ms - 170b[0m
+[90mGET /stylesheets/style.css [32m200 [90m11ms - 140b[0m
+[90mGET / [32m200 [90m22ms - 238b[0m
+[90mGET /javascripts/custom.js [32m200 [90m4ms - 23b[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET / [32m200 [90m23ms - 316b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m11ms - 185b[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [32m200 [90m19ms - 242.15kb[0m
+[90mGET / [32m200 [90m23ms - 316b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m11ms - 209b[0m
+[90mGET / [32m200 [90m17ms - 316b[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m5ms - 115b[0m
+[90mGET / [32m200 [90m19ms - 316b[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m5ms - 223b[0m
+[90mGET / [32m200 [90m18ms - 316b[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m10ms - 241b[0m
+[90mGET / [32m200 [90m14ms - 316b[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m4ms[0m
+[90mGET / [32m200 [90m23ms - 316b[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m8ms - 239b[0m
+[90mGET / [32m200 [90m18ms - 316b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m8ms - 255b[0m
+[90mGET / [32m200 [90m16ms - 316b[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m3ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m12ms - 373b[0m
+[90mGET / [32m200 [90m18ms - 316b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m8ms - 372b[0m
+[90mGET / [32m200 [90m14ms - 316b[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m5ms - 391b[0m
+[90mGET / [32m200 [90m32ms - 316b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m3ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m5ms - 392b[0m
+[90mGET / [32m200 [90m18ms - 316b[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m3ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m4ms - 382b[0m
+[90mGET / [32m200 [90m20ms - 316b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m5ms - 386b[0m
+[90mGET /userlist [32m200 [90m182ms - 455b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m1ms[0m
+[90mGET /userlist [32m200 [90m33ms - 455b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/custom.js [32m200 [90m4ms - 299b[0m
+[90mGET /newuser [32m200 [90m49ms - 576b[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m6ms[0m
+[90mGET /newuser [32m200 [90m21ms - 676b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /userlist [32m200 [90m28ms - 555b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m3ms[0m
+[90mGET /newuser [32m200 [90m20ms - 676b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m3ms[0m
+[90mGET /newuser [32m200 [90m27ms - 685b[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m6ms - 143b[0m
+[90mGET /newuser [32m200 [90m21ms - 685b[0m
+[90mGET /javascripts/custom.js [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m2ms - 161b[0m
+[90mGET /newuser [32m200 [90m43ms - 696b[0m
+[90mGET /javascripts/custom.js [36m304 [90m26ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m24ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m24ms[0m
+[90mGET /newuser [32m200 [90m38ms - 726b[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m5ms[0m
+[90mGET /newuser [32m200 [90m26ms - 726b[0m
+[90mGET /javascripts/custom.js [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m5ms - 182b[0m
+[90mGET /newuser [32m200 [90m27ms - 726b[0m
+[90mGET /javascripts/custom.js [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m6ms - 994b[0m
+[90mGET /newuser [32m200 [90m32ms - 726b[0m
+[90mGET /javascripts/custom.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m7ms - 1.7kb[0m
+[90mGET /userlist [32m200 [90m37ms - 605b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /newuser [32m200 [90m26ms - 726b[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m6ms[0m
+[90mGET /userlist [32m200 [90m36ms - 605b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m1ms[0m
+[90mGET /newuser [32m200 [90m24ms - 726b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m1ms[0m
+[90mGET /userlist [32m200 [90m37ms - 605b[0m
+[90mGET /stylesheets/style.css [36m304 [90m8ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m9ms[0m
+[90mGET /newuser [32m200 [90m31ms - 726b[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m5ms[0m
+[90mGET /userlist [32m200 [90m48ms - 605b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /userlist [32m200 [90m22ms - 605b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /userlist [32m200 [90m21ms - 605b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m1ms[0m
+[90mGET /userlist [32m200 [90m20ms - 605b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m1ms[0m
+[90mGET /userlist [32m200 [90m29ms - 605b[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m8ms[0m
+[90mGET /userlist [32m200 [90m37ms - 605b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /userlist [32m200 [90m25ms - 605b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m1ms[0m
+[90mGET /newuser [32m200 [90m21ms - 726b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m3ms[0m
+[90mGET /newuser [32m200 [90m37ms - 726b[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m10ms - 1.7kb[0m
+[90mGET /userlist [32m200 [90m38ms - 605b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /newuser [32m200 [90m25ms - 726b[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m9ms[0m
+[90mPOST /adduser [36m302 [90m74ms - 74b[0m
+[90mGET /userlist [32m200 [90m35ms - 655b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /userlist [32m200 [90m28ms - 655b[0m
+[90mGET /javascripts/custom.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m10ms - 1.7kb[0m

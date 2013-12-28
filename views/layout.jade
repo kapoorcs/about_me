@@ -3,5 +3,14 @@ html
   head
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
+    script(type='text/javascript', src='javascripts/jquery-1.7.1.min.js')
+    script(type='text/javascript', src='javascripts/custom.js')
   body
+    div
+        ul(id="nav")
+            li
+                a(href="/userlist") List All users
+            li
+                a(href="/newuser") Add New User
+    div(style="clear:both")
     block content
