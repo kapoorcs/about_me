@@ -4,3 +4,8 @@ Express server listening on port 3000
 [90mGET /helloworl [33m404 [90m3ms[0m
 [90mGET /helloworld [31m500 [90m38ms[0m
 [90mGET /helloworld [31m500 [90m3ms[0m
+Express server listening on port 3000
+[90mGET /homepage [32m200 [90m406ms - 197b[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /helloworld [32m200 [90m29ms - 215b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m

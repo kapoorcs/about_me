@@ -9,6 +9,11 @@ var user = require('./routes/user');
 var http = require('http');
 var path = require('path');
 
+// Mongodb connection code 
+var mongo = require("mongodb");
+var monk = require("monk");
+var db = monk('localhost:27017/about_me');
+
 var app = express();
 
 // all environments
@@ -33,6 +38,14 @@ if ('development' == app.get('env')) {
 app.get('/', routes.index);
 app.get('/users', user.list);
 app.get('/helloworld',routes.helloworld);
+app.get('/homepage',routes.homepage);
+
+// get all users from the database.
+app.get('/userlist',routes.userlist(db));
+
+// Insert a new record into the database 
+app.get('/newuser',routes.newuser);
+app.post('/adduser', routes.adduser(db));
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
 });
