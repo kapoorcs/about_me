@@ -200,3 +200,34 @@ Express server listening on port 3000
 [90mGET /javascripts/custom.js [36m304 [90m6ms[0m
 [90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m6ms[0m
 [90mGET /stylesheets/style.css [32m200 [90m10ms - 1.7kb[0m
+[90mGET / [32m200 [90m83ms - 466b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+Express server listening on port 3000
+[90mGET / [32m200 [90m453ms - 466b[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m2ms[0m
+[90mGET /userlist [31m500 [90m123ms[0m
+[90mGET / [32m200 [90m27ms - 466b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m2ms[0m
+[90mGET /userlist [32m200 [90m64ms - 655b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m3ms[0m
+[90mGET /newuser [32m200 [90m49ms - 726b[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m4ms[0m
+[90mPOST /adduser [36m302 [90m40ms - 74b[0m
+[90mGET /userlist [32m200 [90m37ms - 698b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m4ms[0m
+[90mGET / [32m200 [90m71ms - 466b[0m
+[90mGET /stylesheets/style.css [36m304 [90m22ms[0m
+[90mGET /javascripts/custom.js [36m304 [90m21ms[0m
+[90mGET /javascripts/jquery-1.7.1.min.js [36m304 [90m1ms[0m
