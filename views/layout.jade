@@ -2,15 +2,16 @@ doctype html
 html
   head
     title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
-    script(type='text/javascript', src='javascripts/jquery-1.7.1.min.js')
-    script(type='text/javascript', src='javascripts/custom.js')
+    //-link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='/stylesheets/style1.css')
+    //-script(type='text/javascript', src='javascripts/jquery-1.7.1.min.js')
+    //-script(type='text/javascript', src='javascripts/custom.js')
   body
-    div
+    //-div
         ul(id="nav")
             li
                 a(href="/userlist") List All users
             li
                 a(href="/newuser") Add New User
-    div(style="clear:both")
+    //-div(style="clear:both")
     block content
